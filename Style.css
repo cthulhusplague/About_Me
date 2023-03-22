@@ -132,3 +132,10 @@ tr, th {
   padding: 0px;
   text-align: left;
 }
+
+.info-header {
+    color: lime;
+    margin: 40px;
+    padding: 0px;
+    text-align: left;
+}
